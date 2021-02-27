@@ -3,10 +3,10 @@
 
 
 Acest cod contine implementarea jocului lui Joseph cu ajutorul unei liste circulare dublu inlantuite cu santinela.
-Pentru aceasta a trebuit sa creez clasa nod pentru care am implementat contrcutori, constructorul de copiere si 
+Pentru aceasta am folosit clasa nod pentru care am implementat contrcutori, constructorul de copiere si 
 destructorul.
 De asemenea, pentru a reusi sa implementez jocul am fost nevoit sa creez si clasa lista. Acestei liste o sa ii adaugam 
-cate noduri vom dori. Deoarece este o lista dublu inlantuita putem sa o parcurgem in ce sens vrem(si in sensul acelor de ceas si invers)
+cate noduri doreste utilizatorul. Deoarece este o lista dublu inlantuita o putem parcurge in ce sens se doreste(si in sensul acelor de ceas si invers)
 Metodele implementate pentru clasa lista sunt(pe langa constructuri si destructori):
 
 *afiseaza* = care afiseaza valorile nodurilor in sensul acelor de ceas la momentul apelarii
@@ -26,4 +26,4 @@ Metodele implementate pentru clasa lista sunt(pe langa constructuri si destructo
 
 
 Jocul lui Joseph este implementat in metoda *Stergere_Joseph*. Pentru aceasta am folosit doua noduri suplimentare: 
-- unu care retine pozitia curenta altu care se plimba in lista pentru a ajunge la nodul care trebuie sters.
+- unu care retine pozitia curenta iar al doilea  se plimba in lista pentru a ajunge la nodul care trebuie sters.
