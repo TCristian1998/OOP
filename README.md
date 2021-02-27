@@ -1,5 +1,5 @@
-# OOP
-Jocul lui Joseph
+# Jocul lui Joseph
+
 
 
 Acest cod contine implementarea jocului lui Joseph cu ajutorul unei liste circulare dublu inlantuite cu santinela.
